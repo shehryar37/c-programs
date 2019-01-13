@@ -1,0 +1,10 @@
+Name:		Booking No.	Check-In Time:	Check-in Date	Nights stayed	Room Type	Room Count: 	Room Cost: 	Meals
+
+Shehryar	00001		12:48		08/01/2018	4		Double		2		432		Y
+Amber		00002		12:49		08/01/2018	2		Single		5		300		N
+Meer		00003		01:00		01/00/0000	1		Single		1		30		Y
+Arfan		00004		13:01		08/01/2018	1		Triple		1		75		Y
+1		00005		01:00		01/00/0000	1		Single		1		30		Y
+1		00006		01:00		01/00/0000	1		Single		1		30		1
+uzma		00007		01:00		11/00/0000	2		Single		2		120		Y
+x		00008		00:00		00/00/0000	0		Single		0		0		x
